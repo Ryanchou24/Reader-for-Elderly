@@ -1,0 +1,28 @@
+#news {
+    width: 640px;
+    height: 360px;
+    position: static;
+    border:6px solid #BBBBBB;
+    border-style: groove;
+    font-size: 100px;
+    top: 0px;
+    left: 0px;
+}
+
+#news_img {  
+    /* max-width: 100%;  
+    max-height: auto;   */
+    width: 640px;
+    height: 360px;
+}  
+
+#info {
+    width: 640px;
+    height: 360px;
+    position: static;
+    border:6px solid #BBBBBB;
+    border-style: groove;
+    font-size: 20px;
+    top: 0px;
+    left: 0px;
+}
